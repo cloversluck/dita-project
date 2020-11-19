@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gbx_4l3_zcb">
+    <title>Creating a Deliverable Assignment</title>
+    <shortdesc>You can create assignments on Moodle that require students to submit a
+        deliverable.</shortdesc>
+    <prolog><metadata><prodinfo>
+        <prodname>Moodle 3.2</prodname>
+    </prodinfo></metadata></prolog>
+    <taskbody>
+        <context>Students can click on the assignment item on the home page and then submit their
+            assignments. You will then be able to grade these assignments within Moodle.<p>To create
+                a deliverable-based assignment:</p></context>
+        <steps>
+            <step>
+                <cmd><xref href="../Setup/AddingItemsHomePage.dita#AddItems">Add</xref> an
+                        <uicontrol>Assignment</uicontrol> item to the home page.</cmd>
+            </step>
+            <step>
+                <cmd>Type a name for the assignment into the <uicontrol>Assignment name</uicontrol>
+                    textbox and type a description of the assignment into the
+                        <uicontrol>Description</uicontrol> textbox.</cmd>
+            </step>
+            <step>
+                <cmd>Use the <uicontrol>Due date</uicontrol> dropdowns to set the date and time by
+                    which students must submit the assignment.</cmd>
+               <info><image href="CreatingDeliverableAssignment_IMG/DueDate.png"
+                        id="image_ovc_bmz_mdb"/></info>
+            </step>
+            <step importance="optional">
+                <cmd>Use the <uicontrol>Cut-off date </uicontrol>dropdowns to set the date and time
+                    when students may no longer submit the assignment.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Submission types</uicontrol> and set the ways in which
+                    students can submit their work.</cmd>
+            </step>
+            <step>
+                <cmd>Click the <uicontrol>Grade</uicontrol> tab and type the point value of the
+                    assignment into the <uicontrol>Maximum grade</uicontrol> textbox.</cmd>
+                <info><image href="CreatingDeliverableAssignment_IMG/Grade.png"
+                        id="image_ezq_lmz_mdb"/></info>
+            </step>
+            <step>
+                <cmd>Click the <uicontrol>Activity completion</uicontrol> tab and click the checkbox
+                    beside
+                    "Student must submit to this activity to complete it.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Save and return to course</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
