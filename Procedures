@@ -11,4 +11,31 @@
      </context>
   <steps>
      <step>
-        <cmd>
+        <topic id="topic">
+ <title>Discussion Board on Wolfware</title>
+           </title>
+        <cmd>When looking through the assignments for class, sometimes you will have to work through Discussion Boards to conversate with the class online.<p>Below is a sample of what you might see if you were to have this as an assignment.</p></cmd>
+        <info><image href="Wolfware_IMG.png"
+                     id="Screenshot 2020_10_20_220709"/></info>
+     </step>
+     <step>
+        <cmd>From here you would click on this assignment and go read over whatever prompt is requested.</cmd>
+     </step>
+     <step>
+        <cmd>If you are the first to create a post in the discussion board you will see the image to the right on the screen.</cmd>
+        <info><image href="Addanewdiscussion_IMG.png"
+                     id="Screenshot 2020-10-23 234501"/></info>
+     </step>
+     <step>
+        <cmd>If you aren't the first to post you will be prompted to add your additional post to the forums that are in the chat.</cmd>
+     </step>
+     <step>
+        <cmd>No matter is you are the first or the last to post, once you click add discussion you will see the image below.</cmd>
+        <info><image href="Discussionboardoutline_IMG.png"
+                     id="Screenshot 2020-10-24 001613"/></info>
+     </step>
+     <step>
+        <cmd>Based on the prompt that is required, you will fill out both the subject and message boxes to fit the assignment. Simply click on the post to forum when you want to submit.</cmd>
+     </step>
+     </steps>
+        
