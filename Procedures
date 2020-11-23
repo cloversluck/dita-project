@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_gbx_413_zcb">
-   <title>NCSU Checking your Grades in Wolfware</title>
-   <shortdesc>From the Wolfware homepage you can check your current course grades.</shortdesc>
+   <title>NCSU Submitting to a Forum in Wolfware</title>
+   <shortdesc>From Wolfware you are able to submit a forum to a disccusion board.</shortdesc>
   <taskbody>
-     <context>
+     <context>Students can post to a discussion board through Wolfware, under a current course that they are taking.<p>Context of the course and discussion boards being an option for the student determines if nessesary.</p>
+        </context>
+  <steps>
+     <step>
+        
