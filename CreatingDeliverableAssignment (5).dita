@@ -1,54 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<!DOCTYPE task PUBLIC "-//OASIS//Procedures//EN" "task.dtd">
 <task id="task_gbx_4l3_zcb">
-    <title>Creating a Deliverable Assignment</title>
-    <shortdesc>You can create assignments on Moodle that require students to submit a
-        deliverable.</shortdesc>
+    <title>NCSU Checking your Grades in Wolfware</title>
+    <shortdesc>From Wolfware you are able to submit a forum to a discussion board</shortdesc>
     <prolog><metadata><prodinfo>
-        <prodname>Moodle 3.2</prodname>
+        <prodname>Discussion Boards on Moodle</prodname>
     </prodinfo></metadata></prolog>
     <taskbody>
-        <context>Students can click on the assignment item on the home page and then submit their
-            assignments. You will then be able to grade these assignments within Moodle.<p>To create
-                a deliverable-based assignment:</p></context>
+        <context>Students can post to a discussion board through Wolfware, under a current course that they are taking<p>
+                Context of the course and discussion boards are subject to change.</p></context>
         <steps>
             <step>
-                <cmd><xref href="../Setup/AddingItemsHomePage.dita#AddItems">Add</xref> an
-                        <uicontrol>Assignment</uicontrol> item to the home page.</cmd>
+                <cmd><xref href="../Setup/Postingtoadiscussionboard.dita#AddItems">Post</xref> an
+                        <uicontrol>reply</uicontrol>to a discussion board</cmd>
             </step>
             <step>
-                <cmd>Type a name for the assignment into the <uicontrol>Assignment name</uicontrol>
-                    textbox and type a description of the assignment into the
-                        <uicontrol>Description</uicontrol> textbox.</cmd>
+                <cmd>When looking through assignments for the class, sometimes you will have to work through <uicontrol>discussion boards</uicontrol>
+                    to conversate with the class online.</cmd>
             </step>
             <step>
-                <cmd>Use the <uicontrol>Due date</uicontrol> dropdowns to set the date and time by
-                    which students must submit the assignment.</cmd>
-               <info><image href="CreatingDeliverableAssignment_IMG/DueDate.png"
-                        id="image_ovc_bmz_mdb"/></info>
-            </step>
-            <step importance="optional">
-                <cmd>Use the <uicontrol>Cut-off date </uicontrol>dropdowns to set the date and time
-                    when students may no longer submit the assignment.</cmd>
+                <cmd>Below is a sample of what you might see if you were to have this an as assignment.</cmd>
+               <info><image href="Initialdiscussionboardlogo_IMG.png"
+                        id="Screenshot 2020_10_20_220709"/></info>
             </step>
             <step>
-                <cmd>Click <uicontrol>Submission types</uicontrol> and set the ways in which
-                    students can submit their work.</cmd>
+                <cmd>From<uicontrol>the initial discussion board button</uicontrol>you would click on the assignment and read over whatever prompt is requested.</cmd>
             </step>
             <step>
-                <cmd>Click the <uicontrol>Grade</uicontrol> tab and type the point value of the
-                    assignment into the <uicontrol>Maximum grade</uicontrol> textbox.</cmd>
-                <info><image href="CreatingDeliverableAssignment_IMG/Grade.png"
-                        id="image_ezq_lmz_mdb"/></info>
+                <cmd>If you are the first to <uicontrol>create a post</uicontrol> you will see the image to the right of the screen.</cmd>
+                <info><image href="Firstpostindiscussion_IMG/Grade.png"
+                        id="Screenshot 2020-10-23 234501"/></info>
             </step>
             <step>
-                <cmd>Click the <uicontrol>Activity completion</uicontrol> tab and click the checkbox
-                    beside
-                    "Student must submit to this activity to complete it.</cmd>
+                <cmd>If you arent the first to post you will be prompted to add an additional post to the forums.</cmd>
             </step>
             <step>
-                <cmd>Click <uicontrol>Save and return to course</uicontrol>.</cmd>
+                <cmd>No matter the situation, once you click add discussion you will see the image below</cmd>
+                <info><image href="oostingtodiscussion_IMG/Grade.png"
+                        id="Screenshot 2020-10-24 001613"/></info>
             </step>
+            <step>
+                <cmd>Based on the prompt that is required, you would fill out both the subject and message boxes to fit the assignment.<p>
+                    Simply click on the post to forum when you want to submit what text is in the box and your work will be posted to the discussion</p></cmd>
         </steps>
     </taskbody>
 </task>
