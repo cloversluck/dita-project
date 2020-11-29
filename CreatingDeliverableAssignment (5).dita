@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//Procedures//EN" "task.dtd">
 <task id="task_gbx_4l3_zcb">
-    <title>NCSU Checking your Grades in Wolfware</title>
-    <shortdesc>From Wolfware you are able to submit a forum to a discussion board</shortdesc>
+    <title>NCSU Discussion Boards and checking your grades in Wolfware</title>
+    <shortdesc>From Wolfware you are able to submit a forum to a discussion board and check your grades</shortdesc>
     <prolog><metadata><prodinfo>
         <prodname>Discussion Boards on Moodle</prodname>
     </prodinfo></metadata></prolog>
@@ -43,5 +43,50 @@
                 <cmd>Based on the prompt that is required, you would fill out both the subject and message boxes to fit the assignment.<p>
                     Simply click on the post to forum when you want to submit what text is in the box and your work will be posted to the discussion</p></cmd>
         </steps>
+    </taskbody>
+        <taskbody>
+        <context>Students can check their grades in Wolfware<p>
+                From the Wolfware homepage you can check your current course grades.</p></context>
+        <steps>
+            <step>
+                <cmd><xref href="../Setup/Checkgrades.dita#AddItems">Check</xref>grades
+                        <uicontrol>on</uicontrol>Wolfware</cmd>
+            </step>
+            <step>
+                <cmd>It's important to make sure to check your current grades on<uicontrol>wolfware</uicontrol>
+                    to keep track of your assignment participation and fulfullments.</cmd>
+            </step>
+            <step>
+                <cmd>Below is a sample of what the Wolfware homepage looks like<p>Under current click on one of the listed classes</p></cmd>
+               <info><image href="Wolfwarelogo_IMG.png"
+                        id="Screenshot 2020_10_20_220709"/></info>
+            </step>
+            <step>
+                <cmd>From<uicontrol>the initial discussion board button</uicontrol>you would click on the assignment and read over whatever prompt is requested.</cmd>
+            </step>
+            <step>
+                <cmd>If you are the first to <uicontrol>create a post</uicontrol> you will see the image to the right of the screen.</cmd>
+                <info><image href="Firstpostindiscussion_IMG/Grade.png"
+                        id="Screenshot 2020-10-20 220709"/></info>
+            </step>
+            <step>
+                <cmd>Whether you click on a class and end up on that specific page or somehow get placed onto the main dashboard<p>
+                    you will still have access to your grades</p></cmd>
+            </step>
+            <step>
+                <cmd>Once on the Wolfware dashboard, clicking on the upside down triangle will make the image below pop up.</cmd>
+                <info><image href="Wolfware menu_IMG/Grade.png"
+                        id="Screenshot 2020-10-23 212143"/></info>
+            </step>
+            <step>
+                <cmd>Once clicking on the 'grades' section you will be brought to the screen below</cmd>
+                <info><image href="Coursesiamtaking_IMG/Grade.png"
+                        id="Screenshot 2020-10-23 215050"/></info>
+            </step>
+            <step>
+                <cmd>If the grade is not shown on the main page, simply click on the course that you would want to see the grade of.<p>
+                    It's important to note that some grades may not appear due to the teacher's preference for grading.</p></cmd>  
+            </step>
+                    </steps>
     </taskbody>
 </task>
